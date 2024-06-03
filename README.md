@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.com/OliveiraDiogo1)
 
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">A passionate computer science student from Portugal.</h3>
