@@ -6,6 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliveiradiogo1&label=Profile%20views&color=0e75b6&style=flat" alt="oliveiradiogo1" /> </p>
+
 - 🎓 I’m currently studying for my **Master's in Software Engineering**
 
 - 🔭 I’m currently working on **my portfolio.**
